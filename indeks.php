@@ -1,11 +1,11 @@
 <html>
 <head>
- <title>LOGIN MULTIUSER PHP</title>
+ <title>Asrama ma'had Aly</title>
  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
- <h1>Pendataan Santri Asrama Ma'had Aly/Level Dengan PHP <br/></h1>
+ <h1>Pendataan Santri Asrama Ma'had Aly<br/></h1>
 
  <?php
  if(isset($_GET['pesan'])){
