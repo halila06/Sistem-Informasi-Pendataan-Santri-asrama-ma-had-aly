@@ -6,8 +6,8 @@ session_start();
 include 'koneksi.php';
 
 // menangkap data yang dikirim dari form login
-$username = $_POST['username'];
-$password = $_POST['password'];
+$username = $_POST['mahadaly'];
+$password = $_POST['mahadaly123'];
 
 
 // menyeleksi data user dengan username dan password yang sesuai
